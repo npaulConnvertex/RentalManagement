@@ -1,0 +1,60 @@
+{
+  "name": "RentalManagementApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "rnpm": {
+    "assets": [
+      "./Assets/fonts/"
+    ]
+  },
+  "dependencies": {
+    "@pusher/chatkit-client": "^1.5.0",
+    "cities.json": "^1.1.5",
+    "moment": "^2.24.0",
+    "react": "16.6.3",
+    "react-native": "0.57.8",
+    "react-native-app-intro-slider": "^1.0.1",
+    "react-native-autocomplete-input": "^3.6.0",
+    "react-native-cardview": "^2.0.2",
+    "react-native-collapse-view": "^1.0.0",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-fab": "^1.0.8",
+    "react-native-flexi-radio-button": "^0.2.2",
+    "react-native-floating-action": "^1.13.0",
+    "react-native-gifted-chat": "^0.6.0",
+    "react-native-google-signin": "^1.2.1",
+    "react-native-image-picker": "^0.28.0",
+    "react-native-image-slider": "^2.0.3",
+    "react-native-loading-spinner-overlay": "^1.0.1",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-material-textfield": "^0.12.0",
+    "react-native-modal": "^7.0.2",
+    "react-native-onesignal": "^3.2.12",
+    "react-native-phone-call": "^1.0.9",
+    "react-native-progress-bar-animated": "^1.0.6",
+    "react-native-progress-circle": "^2.0.1",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-search-header": "^0.3.0",
+    "react-native-simple-radio-button": "^2.7.3",
+    "react-native-snap-carousel": "^3.7.5",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-svg": "^8.0.10",
+    "react-native-svg-charts": "^5.2.0",
+    "react-native-vector-icons": "^6.1.0",
+    "react-redux": "^7.0.3",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "babel-jest": "24.8.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.0",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

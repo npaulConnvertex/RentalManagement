@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "929353431884",
+    "firebase_url": "https://rentalmanagementapp-db25a.firebaseio.com",
+    "project_id": "rentalmanagementapp-db25a",
+    "storage_bucket": "rentalmanagementapp-db25a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929353431884:android:71d0474c5de42647",
+        "android_client_info": {
+          "package_name": "com.rentalmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929353431884-dinuk3h6jielb0q1gvn3v6k6vkt44v7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rentalmanagementapp",
+            "certificate_hash": "1c3b1b62b93548c7e765aa9f1e442cd9a4721b7b"
+          }
+        },
+        {
+          "client_id": "929353431884-7isriojno8arkuncbo75vffvcbb96mfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rentalmanagementapp",
+            "certificate_hash": "b9fc5516896419edb6857e63ddaf0d9efe9fb5eb"
+          }
+        },
+        {
+          "client_id": "929353431884-qdu1alusedhee8othdk8ah7fp0kmuk98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFSeJfo5kK20Nrti-OSbSVYHIPpOgrUDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929353431884-qdu1alusedhee8othdk8ah7fp0kmuk98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
